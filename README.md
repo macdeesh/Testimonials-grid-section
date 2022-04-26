@@ -15,7 +15,7 @@ This is a solution to the [Testimonials grid section Challenge](https://www.fron
 ## What I learned 
 
 - To create the grid with different size cards I used ```grid-template-areas``` with ```grid-template-columns```, ```grid-template-rows``` and 
-```max-width``` and used the names of the areas in the specefic class styling ```grid-area: side;``` or  ````grid-area: white-card;``` :
+```max-width``` and used the names of the areas in the specefic class styling ```grid-area: side;``` or  ```grid-area: white-card;``` :
 
 ```css
 .card-container {
